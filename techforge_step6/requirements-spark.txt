@@ -1,0 +1,2 @@
+# Optional: PySpark back-end for step 7 (--engine spark). Needs Java 17 (JAVA_HOME) and, on Windows, winutils/HADOOP_HOME.
+pyspark==3.5.4

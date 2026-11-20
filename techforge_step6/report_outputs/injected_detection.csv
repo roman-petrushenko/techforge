@@ -1,0 +1,19 @@
+data_label,group,verdict,builds,share_of_replayed
+SYNTHETIC,generator-compatible,FAIL,8,0.005273566249176
+SYNTHETIC,generator-compatible,PASS,987,0.6506262359920897
+SYNTHETIC,generator-compatible,UNKNOWN,337,0.2221489782465392
+SYNTHETIC,generator-compatible,incomplete in replay,185,0.1219512195121951
+SYNTHETIC,generator-compatible,not replayed (training period only),4722,
+SYNTHETIC,injected incompatible,FAIL,134,0.7745664739884393
+SYNTHETIC,injected incompatible,UNKNOWN,14,0.0809248554913294
+SYNTHETIC,injected incompatible,incomplete in replay,25,0.1445086705202312
+SYNTHETIC,injected incompatible,not replayed (training period only),551,
+SYNTHETIC,injected: form_factor,FAIL,40,0.9090909090909092
+SYNTHETIC,injected: form_factor,incomplete in replay,4,0.0909090909090909
+SYNTHETIC,injected: memory,FAIL,29,0.58
+SYNTHETIC,injected: memory,UNKNOWN,14,0.28
+SYNTHETIC,injected: memory,incomplete in replay,7,0.14
+SYNTHETIC,injected: power,FAIL,32,0.8648648648648649
+SYNTHETIC,injected: power,incomplete in replay,5,0.1351351351351351
+SYNTHETIC,injected: socket,FAIL,33,0.7857142857142857
+SYNTHETIC,injected: socket,incomplete in replay,9,0.2142857142857142

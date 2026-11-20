@@ -1,0 +1,4 @@
+commit c52a04ca9465c83997ed335f7767b09a2005dd26
+date Wed Jul 23 15:33:03 2025 -0400
+subject chore: update license year
+source https://github.com/docyx/pc-part-dataset (MIT licence), files data/csv/*.csv copied unchanged

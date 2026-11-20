@@ -1,0 +1,27 @@
+socket,default_memory_type,ambiguous,note,source,verified,version
+AM5,DDR5,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM4,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1851,DDR5,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1700,,yes,DDR4 and DDR5 boards exist; resolved only by 'DDR4'/'D4'/'DDR5'/'D5' in the board name,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1200,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1151,DDR4,no,a few early boards use DDR3L; name marker overrides,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1150,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1155,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1156,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA1366,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA2011,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA2011-3,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA2011-3 Narrow,DDR4,no,server boards,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA2066,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+sTR4,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+sTRX4,DDR4,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM3+,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM3+/AM3,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM3,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+FM2+,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+FM2,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+FM1,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM1,DDR3,no,,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM3/AM2+/AM2,,yes,DDR2 or DDR3 by board,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+AM3/AM2+,,yes,DDR2 or DDR3 by board,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18
+LGA775,,yes,DDR2 or DDR3 by board,Platform/chipset page of the CPU maker (supported memory) and the board maker's spec page for name overrides,no,ref-draft-2026-11-18

@@ -1,0 +1,9 @@
+data_label,policy,role,periods,periods_without_stockout,fill_rate,average_stock,alert_share_of_periods,alerts_needing_action_share,data
+SYNTHETIC,min_max,all,1680,0.9149,0.9219,52.95,,,SYNTHETIC
+SYNTHETIC,order_up_to,all,1680,0.981,0.9885,33.06,0.6482,0.0542,SYNTHETIC
+SYNTHETIC,min_max,analogue_launch,168,0.9583,0.9774,32.32,,,SYNTHETIC
+SYNTHETIC,min_max,launch,168,0.9226,0.814,92.83,,,SYNTHETIC
+SYNTHETIC,min_max,regular,1344,0.9085,0.9319,50.55,,,SYNTHETIC
+SYNTHETIC,order_up_to,analogue_launch,168,0.9821,0.9871,25.73,,,SYNTHETIC
+SYNTHETIC,order_up_to,launch,168,1.0,1.0,61.3,,,SYNTHETIC
+SYNTHETIC,order_up_to,regular,1344,0.9784,0.9872,30.45,,,SYNTHETIC

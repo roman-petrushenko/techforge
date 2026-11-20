@@ -1,0 +1,8 @@
+data_label,reason,count
+SYNTHETIC,bad_timestamp,62
+SYNTHETIC,duplicate_event_id,449
+SYNTHETIC,missing_field,39
+SYNTHETIC,not_valid_json,55
+SYNTHETIC,unknown_part_id,66
+SYNTHETIC,accepted,41556
+SYNTHETIC,late_accepted (processed in next batch),856

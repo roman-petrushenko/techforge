@@ -1,0 +1,10 @@
+data_label,category,attribute,parts,known,unknown,unknown_share
+real catalog (pc-part-dataset c52a04c),cpu,socket,961,730,231,0.2404
+real catalog (pc-part-dataset c52a04c),cpu,tdp_w,961,961,0,0.0
+real catalog (pc-part-dataset c52a04c),motherboard,socket,4956,4955,1,0.0002
+real catalog (pc-part-dataset c52a04c),motherboard,memory_type,4956,4246,710,0.1433
+real catalog (pc-part-dataset c52a04c),motherboard,form_factor,4956,4955,1,0.0002
+real catalog (pc-part-dataset c52a04c),memory,memory_type,8081,8077,4,0.0005
+real catalog (pc-part-dataset c52a04c),video-card,board_power_w,6232,2937,3295,0.5287
+real catalog (pc-part-dataset c52a04c),case,accepted_form_factors,4211,4100,111,0.0264
+real catalog (pc-part-dataset c52a04c),power-supply,wattage_w,3196,3196,0,0.0

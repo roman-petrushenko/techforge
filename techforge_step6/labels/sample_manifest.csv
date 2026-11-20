@@ -1,0 +1,181 @@
+label_id,rule_id,subset,stratum,category_1,part_id_1,name_1,category_2,part_id_2,name_2,category_3,part_id_3,name_3,seed
+L001,R1,test,PASS,cpu,CPU-d95101dc11,Intel Xeon E3-1270 V5,motherboard,MB-5aac1bde96,Asus B150M-K,,,,2026
+L002,R1,test,PASS,cpu,CPU-e304316f1a,Intel Pentium Gold G5420,motherboard,MB-e9d9eaefb9,Gigabyte B365M D2V,,,,2026
+L003,R1,test,UNKNOWN,cpu,CPU-229e6da9a3,AMD Phenom II X4 840,motherboard,MB-9ac98bdce2,Jetway JXBLUE-H55-MINI-LF,,,,2026
+L004,R1,test,PASS,cpu,CPU-9a429fd68e,AMD Ryzen 5 5600G,motherboard,MB-6209728d32,MSI X370 GAMING PRO CARBON AC,,,,2026
+L005,R1,test,UNKNOWN,cpu,CPU-a18475497b,AMD Phenom II X4 940 Black,motherboard,MB-529b721673,Asus PRIME A620M-A,,,,2026
+L006,R1,test,PASS,cpu,CPU-522553ffdb,Intel Xeon E-2144G,motherboard,MB-c7c6b6cb11,ASRock H310M-ITX/ac,,,,2026
+L007,R1,test,FAIL,cpu,CPU-0ea8bed025,Intel Core i7-9700,motherboard,MB-0f242f498d,MSI MPG Z790 EDGE WIFI DDR4,,,,2026
+L008,R1,test,FAIL,cpu,CPU-44d4a0ac4e,Intel Xeon E3-1220 V5,motherboard,MB-52d0f859db,MSI MEG Z790 GODLIKE MAX,,,,2026
+L009,R1,test,PASS,cpu,CPU-d61b7aebf3,AMD Ryzen 3 1300X,motherboard,MB-278d91a5fb,Asus PRIME B450M-K,,,,2026
+L010,R1,test,FAIL,cpu,CPU-f7235c4c61,Intel Xeon E3-1245 V6,motherboard,MB-b4d72e014f,Asus PRIME A520M-R-CSM,,,,2026
+L011,R1,test,PASS,cpu,CPU-57c9924f60,AMD Ryzen 5 4500,motherboard,MB-e8972f545d,MSI B350 KRAIT GAMING,,,,2026
+L012,R1,test,UNKNOWN,cpu,CPU-fecffe9cb0,Intel Xeon E5-2450V2,motherboard,MB-5615c98e00,Gigabyte H610M S2H,,,,2026
+L013,R1,test,FAIL,cpu,CPU-1821153d1b,Intel Xeon E3-1240 V6,motherboard,MB-1ae5da3201,MSI AM1I,,,,2026
+L014,R1,test,PASS,cpu,CPU-39682b735e,Intel Celeron G465,motherboard,MB-d61a511ea1,ASRock P67 Extreme4 Gen3,,,,2026
+L015,R1,test,FAIL,cpu,CPU-df0308914b,Intel Core i7-12700F,motherboard,MB-a7f9061833,Gigabyte H410M S2H,,,,2026
+L016,R1,test,PASS,cpu,CPU-e26e5e291b,Intel Celeron G4930,motherboard,MB-f48a6c990c,Asus E3 PRO GAMING V5,,,,2026
+L017,R1,test,FAIL,cpu,CPU-3bfc01aa5f,Intel Core i7-6700K,motherboard,MB-f8f3e031a2,Asus TUF B350M-PLUS GAMING,,,,2026
+L018,R1,test,PASS,cpu,CPU-da0864ac81,Intel Xeon E-2146G,motherboard,MB-2f48fd86bc,ASRock Fatal1ty Z170 Gaming K4,,,,2026
+L019,R1,test,UNKNOWN,cpu,CPU-75b9f25579,AMD Phenom II X4 960T Black,motherboard,MB-c2d63809d0,ASRock B150M Pro4/D3,,,,2026
+L020,R1,test,UNKNOWN,cpu,CPU-16d2075134,AMD Athlon II X2 260u,motherboard,MB-93befece5a,Asus P6X58D Premium,,,,2026
+L021,R1,test,UNKNOWN,cpu,CPU-827793bfba,AMD EPYC 4564P,motherboard,MB-a6e11f417b,ECS A85F2-A GOLDEN(1.0),,,,2026
+L022,R1,test,PASS,cpu,CPU-2e5666f36f,Intel Core i9-9900,motherboard,MB-09e855fa24,ASRock Z170 Extreme6+,,,,2026
+L023,R1,test,PASS,cpu,CPU-f26937a015,Intel Core i3-10100T,motherboard,MB-9cf2938320,Gigabyte Z490 AORUS PRO AX,,,,2026
+L024,R1,test,FAIL,cpu,CPU-18be2a18a3,Intel Core Ultra 5 235,motherboard,MB-c77fa2c13e,Gigabyte GA-Q170M-MK,,,,2026
+L025,R1,test,FAIL,cpu,CPU-7fe7d090ae,Intel Xeon E5-2680 V4,motherboard,MB-8e2ebc0054,ASRock H610M-HVS,,,,2026
+L026,R1,test,FAIL,cpu,CPU-4bbb8b8beb,Intel Core i3-4130T,motherboard,MB-42711650c0,MSI MAG B760M MORTAR,,,,2026
+L027,R1,test,FAIL,cpu,CPU-460613963c,Intel Xeon E5-4650,motherboard,MB-e395cb949c,Asus M4A785T-M/CSM,,,,2026
+L028,R1,test,PASS,cpu,CPU-d42f65b029,AMD Ryzen 7 5700X3D,motherboard,MB-591e07a036,Gigabyte X570S AORUS ELITE,,,,2026
+L029,R1,test,UNKNOWN,cpu,CPU-7dd02a0820,Intel Core 2 Duo E7400,motherboard,MB-4f4a4e8cfb,Gigabyte GA-G1.SNIPER B6,,,,2026
+L030,R1,test,FAIL,cpu,CPU-6ddee4942c,Intel Core i9-12900KF,motherboard,MB-3447be4ad6,Gigabyte GA-H97-D3H,,,,2026
+L031,R1,test,PASS,cpu,CPU-c31c7a1149,Intel Xeon E-2288G,motherboard,MB-0a3a32f5a6,ASRock Z170 Gaming K4/D3,,,,2026
+L032,R1,test,PASS,cpu,CPU-6422c6edc2,Intel Core i3-7100,motherboard,MB-bee0e4c914,Asus H170I-PLUS D3,,,,2026
+L033,R1,test,FAIL,cpu,CPU-3bea75834e,Intel Celeron G5925,motherboard,MB-a9f5646ce2,MSI B85M-G43,,,,2026
+L034,R1,test,UNKNOWN,cpu,CPU-99be3f04b5,Intel Celeron E3400,motherboard,MB-f5ecdfe717,MSI B85-G43 GAMING,,,,2026
+L035,R1,tuning,FAIL,cpu,CPU-24e8d99c23,Intel Core i9-12900F,motherboard,MB-7a9dc09798,Gigabyte GA-P61-USB3-B3,,,,2026
+L036,R1,tuning,FAIL,cpu,CPU-5470e5d34c,AMD Ryzen 7 5800XT,motherboard,MB-694891ae5b,ASRock H77 Pro4/MVP,,,,2026
+L037,R1,tuning,PASS,cpu,CPU-522553ffdb,Intel Xeon E-2144G,motherboard,MB-5e97acb12c,Gigabyte GA-X170-EXTREME ECC,,,,2026
+L038,R1,tuning,PASS,cpu,CPU-eb3fd25821,Intel Core i5-7600T,motherboard,MB-089df5191a,Gigabyte GA-Z270X-Gaming K7,,,,2026
+L039,R1,tuning,FAIL,cpu,CPU-f618c04674,Intel Celeron G3920,motherboard,MB-132522494a,ECS P45T-AD3,,,,2026
+L040,R1,tuning,FAIL,cpu,CPU-7538c2351e,Intel Xeon E-2246G,motherboard,MB-ef7a2b9d1a,Gigabyte G1.Sniper,,,,2026
+L041,R1,tuning,PASS,cpu,CPU-6a726eb57f,Intel Core i3-7320,motherboard,MB-2cbadfe5f2,MSI Z170-A PRO,,,,2026
+L042,R1,tuning,FAIL,cpu,CPU-2da2cf531c,Intel Pentium G840,motherboard,MB-63b774f5d1,Asus TUF GAMING X870-PLUS WIFI,,,,2026
+L043,R1,tuning,FAIL,cpu,CPU-f185345ae9,AMD A4-6320,motherboard,MB-c1b569c150,MSI H110M PRO-VD PLUS,,,,2026
+L044,R1,tuning,UNKNOWN,cpu,CPU-cb0b579437,Intel Pentium G550,motherboard,MB-471ff36caf,ASRock B560M-HDV-A,,,,2026
+L045,R1,tuning,PASS,cpu,CPU-40c182830b,Intel Core i3-3210,motherboard,MB-d12795d3e4,ASRock Z77 Pro4,,,,2026
+L046,R1,tuning,FAIL,cpu,CPU-f6cf02fae4,Intel Xeon E-2136,motherboard,MB-fe564468c1,Asus P8H61-M LE/CSM R2.0,,,,2026
+L047,R1,tuning,PASS,cpu,CPU-83e6f1b900,AMD Ryzen 3 1200 (12nm),motherboard,MB-a8ebb25a2b,MSI B450M GAMING PLUS,,,,2026
+L048,R1,tuning,PASS,cpu,CPU-da3a6f6aae,AMD Ryzen 9 7900X3D,motherboard,MB-64d0b8629a,Gigabyte B650 GAMING X AX,,,,2026
+L049,R1,tuning,FAIL,cpu,CPU-9653820863,Intel Core i5-11600,motherboard,MB-faf7851162,MSI PRO A620M-C EX,,,,2026
+L050,R1,tuning,UNKNOWN,cpu,CPU-39f00d0692,Intel Celeron 450,motherboard,MB-3789265ce1,MSI H81M-P33,,,,2026
+L051,R1,tuning,PASS,cpu,CPU-1ebc4b4d4d,Intel Core i3-2120,motherboard,MB-0b840b57a9,MSI P67S-C43,,,,2026
+L052,R2,test,FAIL,memory,MEM-44aff9ffba,Mushkin Essentials 16 GB,motherboard,MB-62737df86a,Gigabyte B650 AORUS ELITE AX V2,,,,2026
+L053,R2,test,FAIL,memory,MEM-2c15d69e81,Crucial CT2KIT25664AA667 4 GB,motherboard,MB-2485747611,ASRock X670E Taichi,,,,2026
+L054,R2,test,PASS,memory,MEM-dab161bdb8,Kingston KVR13LE9S8/4 4 GB,motherboard,MB-ef8b11a052,Gigabyte GA-F2A58M-HD2,,,,2026
+L055,R2,test,FAIL,memory,MEM-dbdc42f76f,V-Color TRA516G64S832Q 64 GB,motherboard,MB-1ebc1bc63c,MSI MAG B550M MORTAR,,,,2026
+L056,R2,test,UNKNOWN,memory,MEM-dc30789ee6,G.Skill Ripjaws 4 128 GB,motherboard,MB-c27ff368b8,ASRock Z690 Taichi,,,,2026
+L057,R2,test,FAIL,memory,MEM-75302257e6,G.Skill Trident Z5 Neo RGB 32 GB,motherboard,MB-7fa3c2a1f1,Gigabyte GA-H61MA-D3V,,,,2026
+L058,R2,test,FAIL,memory,MEM-fc1c7c8efd,Corsair Dominator Platinum RGB 64 GB,motherboard,MB-d3a56d8f7e,Gigabyte GA-B85M-HD3,,,,2026
+L059,R2,test,PASS,memory,MEM-36dbeca02d,Kingston FURY Impact 16 GB,motherboard,MB-71e514cf33,Supermicro C9X299-PG300,,,,2026
+L060,R2,test,FAIL,memory,MEM-c945f1600b,Corsair ValueSelect 32 GB,motherboard,MB-f851a3e825,Gigabyte GA-Z97X-SOC FORCE,,,,2026
+L061,R2,test,UNKNOWN,memory,MEM-1970077a69,Biwin Black Opal DW100 RGB 48 GB,motherboard,MB-4dc7431a2d,MSI PRO B660M-A WIFI,,,,2026
+L062,R2,test,PASS,memory,MEM-40a598a120,ADATA XPG GAMMIX D10 16 GB,motherboard,MB-a719255aa8,ASRock H370M-HDV,,,,2026
+L063,R2,test,FAIL,memory,MEM-ccbac1be02,Kingston HyperX T1 4 GB,motherboard,MB-4076b4e430,MSI MPG Z590 GAMING EDGE WIFI,,,,2026
+L064,R2,test,PASS,memory,MEM-f92b0fbf3d,Mushkin Redline 64 GB,motherboard,MB-9bcbc24233,Biostar B550GTA,,,,2026
+L065,R2,test,FAIL,memory,MEM-a1a93f500d,ADATA XPG SPECTRIX D41 16 GB,motherboard,MB-49dc9225f9,Foxconn A76ML-K 3.0,,,,2026
+L066,R2,test,PASS,memory,MEM-ccfcc89786,OLOy Blade RGB 16 GB,motherboard,MB-0a4795e0d3,ASRock Z590 Extreme WiFi 6E,,,,2026
+L067,R2,test,UNKNOWN,memory,MEM-6ed7bc6b6d,Crucial CT25664AA1067 2 GB,motherboard,MB-b3b4c3110e,ASRock K10N78M-PRO,,,,2026
+L068,R2,test,UNKNOWN,memory,MEM-0d44a6a438,G.Skill Ripjaws X 8 GB,motherboard,MB-a0fb8e7b2d,ASRock Z790 Taichi Carrara,,,,2026
+L069,R2,test,PASS,memory,MEM-08de9cbc85,Kingston D4G72M151 32 GB,motherboard,MB-1674112bbf,Biostar B450GT3,,,,2026
+L070,R2,test,PASS,memory,MEM-2177d6c623,G.Skill Flare X 32 GB,motherboard,MB-28762354a9,Biostar Z370GT6,,,,2026
+L071,R2,test,PASS,memory,MEM-05df9233ad,Corsair Vengeance LPX 16 GB,motherboard,MB-5a26d8c22a,ASRock H110M-HDS R3.0,,,,2026
+L072,R2,test,UNKNOWN,memory,MEM-9251257cd3,Mushkin Essentials 4 GB,motherboard,MB-633321a5b6,Gigabyte H610M H,,,,2026
+L073,R2,test,PASS,memory,MEM-fa58fa61f3,Lexar Hades OC 32 GB,motherboard,MB-a813f21d14,Asus ROG STRIX B550-E GAMING,,,,2026
+L074,R2,test,PASS,memory,MEM-ebfac6d17c,TEAMGROUP T-Force Xtreem 16 GB,motherboard,MB-5198533901,Asus PRIME B760M-K D4-CSM,,,,2026
+L075,R2,test,PASS,memory,MEM-6a60ddfcbf,TEAMGROUP Elite 8 GB,motherboard,MB-7e55149535,Supermicro X11SSL-CF,,,,2026
+L076,R2,test,FAIL,memory,MEM-2c9afe5660,Kingston HyperX Fury 16 GB,motherboard,MB-bf2f25aab1,ASRock P67 Transformer (B3),,,,2026
+L077,R2,test,PASS,memory,MEM-7b621818fc,AMD R9 2400 16 GB,motherboard,MB-924c77a1bd,MSI A68HM GAMING,,,,2026
+L078,R2,test,FAIL,memory,MEM-a21b5af3bf,Kingston ValueRAM 32 GB,motherboard,MB-4f3d62d22c,EVGA 151-SE-E777-K2,,,,2026
+L079,R2,test,FAIL,memory,MEM-1768d54cea,Samsung M393B2G70DB0-YK0 16 GB,motherboard,MB-8386e57a12,MSI A320M-A PRO,,,,2026
+L080,R2,test,PASS,memory,MEM-18d3baf6ab,Crucial CT4G4SFS624A 4 GB,motherboard,MB-cb16dd74f7,MSI Z370I GAMING PRO CARBON AC,,,,2026
+L081,R2,test,FAIL,memory,MEM-4878234e5f,G.Skill F3-8500CL7S-4GBSQ 4 GB,motherboard,MB-8417439a38,Gigabyte Z490 AORUS ELITE AC,,,,2026
+L082,R2,test,PASS,memory,MEM-baf59315b5,G.Skill Trident Z5 RGB 64 GB,motherboard,MB-223ac48525,Gigabyte B650M S2H,,,,2026
+L083,R2,test,PASS,memory,MEM-dfd11baf16,Lexar Hades OC 16 GB,motherboard,MB-3bfc0a2bef,Asus PRIME H510M-A/CSM,,,,2026
+L084,R2,test,PASS,memory,MEM-e59fad2124,TEAMGROUP T-Force Delta RGB 32 GB,motherboard,MB-c40d674f45,MSI X99A TOMAHAWK,,,,2026
+L085,R2,tuning,FAIL,memory,MEM-82e83aa587,Silicon Power SP008GBSFU213N22 8 GB,motherboard,MB-06716a9bd6,Biostar H61MLB,,,,2026
+L086,R2,tuning,PASS,memory,MEM-0ad7bd8417,OCZ Gold XTE 6 GB,motherboard,MB-8117ebd809,Gigabyte GA-Z97X-Gaming GT,,,,2026
+L087,R2,tuning,PASS,memory,MEM-2683cfc017,Acer Predator Talos 16 GB,motherboard,MB-75b6941be2,Gigabyte Z690 AERO G DDR4,,,,2026
+L088,R2,tuning,UNKNOWN,memory,MEM-5058dd68d7,TEAMGROUP Vulcan 32 GB,motherboard,MB-8dc0a03f27,Gigabyte B760M D3HP WIFI6,,,,2026
+L089,R2,tuning,FAIL,memory,MEM-92cc1d3d54,Corsair Vengeance RGB Pro SL 64 GB,motherboard,MB-cf10c486b2,MSI A78M-E35,,,,2026
+L090,R2,tuning,UNKNOWN,memory,MEM-bf2205a027,Crucial Ballistix Sport AT 16 GB,motherboard,MB-0b4f88a2d2,Biostar H610MHC-E,,,,2026
+L091,R2,tuning,UNKNOWN,memory,MEM-f9de670268,Mushkin Redline ST 32 GB,motherboard,MB-0228559f3a,Gigabyte GA-P35-DS3L,,,,2026
+L092,R2,tuning,FAIL,memory,MEM-efd1f10264,Kingston KVR1333D3S8N9/2G 2 GB,motherboard,MB-3b7be4792d,MSI MPG Z890 CARBON WIFI,,,,2026
+L093,R2,tuning,UNKNOWN,memory,MEM-55f8af8362,GeIL EVO CORSA 8 GB,motherboard,MB-32d789371c,EVGA Classified,,,,2026
+L094,R2,tuning,PASS,memory,MEM-38feb41ccc,Kingston KHX2133C11D3W1K2/8GX 8 GB,motherboard,MB-c1a6b272c1,ASRock Z77 Extreme11,,,,2026
+L095,R2,tuning,FAIL,memory,MEM-534638a338,OLOy Blade 16 GB,motherboard,MB-ccca1af618,MSI Z87 XPOWER,,,,2026
+L096,R2,tuning,FAIL,memory,MEM-1fbe746520,V-Color TRA548G64D832Q 192 GB,motherboard,MB-76f220e01c,Asus TUF GAMING B460-PLUS,,,,2026
+L097,R2,tuning,FAIL,memory,MEM-b7aff3f5af,Klevv Genuine 16 GB,motherboard,MB-fad6f4a4f9,Gigabyte X570S AORUS ELITE AX,,,,2026
+L098,R2,tuning,PASS,memory,MEM-b73372ef8a,Kingston FURY Renegade 32 GB,motherboard,MB-b5cd8de5b1,Asus PRIME B550-PLUS AC-HES,,,,2026
+L099,R2,tuning,FAIL,memory,MEM-adbd48a1a4,ADATA XPG LANCER RGB 32 GB,motherboard,MB-173bab76c0,MSI B150M MORTAR ARCTIC,,,,2026
+L100,R2,tuning,FAIL,memory,MEM-e962332fd4,V-Color TRA564G60D436O 512 GB,motherboard,MB-3aa3693d41,Asus ROG STRIX B360-H GAMING,,,,2026
+L101,R2,tuning,UNKNOWN,memory,MEM-057adfa002,Patriot Signature Line 32 GB,motherboard,MB-5b0f681de1,Gigabyte B760M DS3H WIFI6E GEN5,,,,2026
+L102,R3,test,FAIL,motherboard,MB-0fbab3e281,ASRock B860 Steel Legend WiFi,case,CASE-3caf3cae9b,Xigmatek Scorpio,,,,2026
+L103,R3,test,PASS,motherboard,MB-1da786d05c,Asus ROG STRIX B460-I GAMING,case,CASE-2d9e30a7e7,Lian Li PC-D8000,,,,2026
+L104,R3,test,FAIL,motherboard,MB-dee7b95bbb,Biostar A780L,case,CASE-9de7233051,Azza Z,,,,2026
+L105,R3,test,PASS,motherboard,MB-add75066f2,Asus PRIME B560M-A AC,case,CASE-e2891ee5e7,Corsair Carbide Series SPEC OMEGA,,,,2026
+L106,R3,test,FAIL,motherboard,MB-0a61141d96,Asus ROG STRIX X470-F Gaming,case,CASE-4507e3a9d8,Silverstone PS15 PRO,,,,2026
+L107,R3,test,FAIL,motherboard,MB-b2846bfa05,Jetway JMIH61M-DU3-LF,case,CASE-31858d99cd,Cooler Master NCORE 100 AIR,,,,2026
+L108,R3,test,FAIL,motherboard,MB-7b7c2a5c46,Gigabyte Z790 EAGLE,case,CASE-162dba17cf,Noua Fobia L10,,,,2026
+L109,R3,test,FAIL,motherboard,MB-b2601918ee,Asus ROG MAXIMUS Z690 FORMULA,case,CASE-d4a793842a,Lian Li Lancool 170M,,,,2026
+L110,R3,test,PASS,motherboard,MB-61cfb60613,MSI A78M-E45 V2,case,CASE-0962d2cead,Tempest Vision RGB,,,,2026
+L111,R3,test,PASS,motherboard,MB-7c921993a1,ASRock Z370 Killer SLI,case,CASE-85fa3a7746,NZXT H700i Ninja,,,,2026
+L112,R3,test,PASS,motherboard,MB-c2fbd67016,Asus TUF GAMING A520M-PLUS II,case,CASE-769456de37,SilentiumPC Armis AR6X EVO ARGB,,,,2026
+L113,R3,test,UNKNOWN,motherboard,MB-a219f8752a,ASRock X99 Extreme6,case,CASE-a41740fd0f,Thermaltake DH102,,,,2026
+L114,R3,test,PASS,motherboard,MB-6e7759818d,Asus PRIME H310M-D,case,CASE-e8620c9a4f,Rosewill RISE,,,,2026
+L115,R3,test,UNKNOWN,motherboard,MB-028952cf74,MSI MAG B660 TOMAHAWK WIFI,case,CASE-d464a9417d,Silverstone ML06B,,,,2026
+L116,R3,test,PASS,motherboard,MB-79a2d324d1,Gigabyte B760M AORUS ELITE GEN5,case,CASE-eb8a2dc5ed,Corsair iCUE LINK 3500X RGB,,,,2026
+L117,R3,test,FAIL,motherboard,MB-ca5456a654,Gigabyte X399 AORUS XTREME,case,CASE-1e450c8b07,MSI MPG GUNGNIR 110R EVA e-PROJECT,,,,2026
+L118,R3,test,UNKNOWN,motherboard,MB-5c0ac466d2,Gigabyte GA-Z68A-D3H-B3,case,CASE-8a091d91ca,Silverstone GD01B-MXR,,,,2026
+L119,R3,test,FAIL,motherboard,MB-03989db6be,Gigabyte GA-F2A75M-D3H,case,CASE-10bb3646ba,Jonsbo T6,,,,2026
+L120,R3,test,PASS,motherboard,MB-b038d30d63,Biostar H610MHP,case,CASE-2da10e8dca,Mars Gaming MC7,,,,2026
+L121,R3,test,FAIL,motherboard,MB-329589420c,Gigabyte GA-X99-Gaming 7 WIFI,case,CASE-c44a05b52d,SHARKOON REV 100,,,,2026
+L122,R3,test,FAIL,motherboard,MB-2755ba5ba5,MSI Z370 GODLIKE GAMING,case,CASE-209068c88e,Thermaltake Divider 370 TG ARGB,,,,2026
+L123,R3,test,FAIL,motherboard,MB-3a67b82ec3,Biostar X670E VALKYRIE,case,CASE-fb324222da,In Win BP671.200BL,,,,2026
+L124,R3,test,PASS,motherboard,MB-5b844609be,ASRock Z97 Extreme6/ac,case,CASE-6d56084d92,Jonsbo A4 Ver1.1,,,,2026
+L125,R3,test,UNKNOWN,motherboard,MB-c2d63809d0,ASRock B150M Pro4/D3,case,CASE-412f0738eb,Lian Li PC-C36B,,,,2026
+L126,R3,test,PASS,motherboard,MB-c4160a0db4,Asus PRIME B550M-K ARGB,case,CASE-528a530a2b,Silverstone RV02B-EW,,,,2026
+L127,R3,test,PASS,motherboard,MB-4f7ac7c6b7,Jetway JMA3-880GP-LF,case,CASE-d7fd86a9ff,Noua Demon T4,,,,2026
+L128,R3,test,FAIL,motherboard,MB-7ebad4437e,Gigabyte GA-H97M-HD3,case,CASE-b267dfe850,MagniumGear Neo Mini V2,,,,2026
+L129,R3,test,UNKNOWN,motherboard,MB-c2c8152df3,ASRock H670M Pro RS,case,CASE-44795d0048,Foxconn DH-153C(H+A)+MT-300-4SS,,,,2026
+L130,R3,test,UNKNOWN,motherboard,MB-f94d088de6,ASRock B85 Killer,case,CASE-92149f4ee3,Silverstone LC18,,,,2026
+L131,R3,test,FAIL,motherboard,MB-cb84717f0a,Intel DZ68ZV,case,CASE-9353074aed,Asus Prime AP201,,,,2026
+L132,R3,test,PASS,motherboard,MB-d1371d2683,ASRock Z77 WS,case,CASE-5e2facce9e,Silverstone SETA Q1,,,,2026
+L133,R3,test,FAIL,motherboard,MB-0f50a734a8,Gigabyte GA-Z77-D3H,case,CASE-3354564e30,Rosewill Legacy V6-B,,,,2026
+L134,R3,test,PASS,motherboard,MB-f17d3d7fca,MSI X470 GAMING PLUS,case,CASE-311178f0e0,Fractal Design Core 3500,,,,2026
+L135,R3,tuning,UNKNOWN,motherboard,MB-4b0b32e9e7,Intel DG43RK,case,CASE-20c0216a60,nMEDIAPC HTPC 7000B,,,,2026
+L136,R3,tuning,FAIL,motherboard,MB-30008a38dc,Asus ProArt B660-CREATOR D4,case,CASE-f241bde953,Chieftronic M1,,,,2026
+L137,R3,tuning,FAIL,motherboard,MB-1fde44cb65,EVGA Z87 FTW,case,CASE-dee32d2a57,In Win EM023.T350SL,,,,2026
+L138,R3,tuning,PASS,motherboard,MB-d7d8110690,Asus PRIME Z590M-PLUS,case,CASE-3f8ceed8fe,Aerocool Aero-300,,,,2026
+L139,R3,tuning,UNKNOWN,motherboard,MB-b39428b44e,Asus F1A75-V PRO,case,CASE-ab1f7dec06,Silverstone GD10B,,,,2026
+L140,R3,tuning,UNKNOWN,motherboard,MB-84e1fa0c8f,Asus PRIME H270-PRO,case,CASE-ba4ce8545e,Athenatech A100SC.350,,,,2026
+L141,R3,tuning,PASS,motherboard,MB-4b9d7d5445,Asus Pro B760M-CT-CSM,case,CASE-cd27dad1f4,Foxconn TSAA725-ISO450,,,,2026
+L142,R3,tuning,FAIL,motherboard,MB-16dcbeb9bd,Gigabyte GA-880GM-USB3L,case,CASE-7d0de1096f,Jonsbo V10,,,,2026
+L143,R3,tuning,FAIL,motherboard,MB-13da322a59,MSI X299 PRO 10G,case,CASE-5795777344,In Win IW-MS04,,,,2026
+L144,R3,tuning,PASS,motherboard,MB-74a7d777cb,Jetway JMA760TMHG-V2-LF,case,CASE-50c043867d,Corsair 2500X,,,,2026
+L145,R3,tuning,PASS,motherboard,MB-12a1830d37,Gigabyte GA-H87-HD3,case,CASE-d4582ccebc,Rosewill Cullinan V,,,,2026
+L146,R3,tuning,PASS,motherboard,MB-9bcd11d17f,ECS CDC-I/D2500(1.0),case,CASE-f088a90a40,ADATA XPG STARKER AIR,,,,2026
+L147,R3,tuning,FAIL,motherboard,MB-86dc5ea654,ECS P67H2-A2 SLI (B3),case,CASE-352a72c605,Parvum Systems S1.0,,,,2026
+L148,R3,tuning,UNKNOWN,motherboard,MB-a448d2b14c,ASRock Z790M-ITX WIFI,case,CASE-0a599eb4c7,In Win BL672.FH300TB3F,,,,2026
+L149,R3,tuning,FAIL,motherboard,MB-611fd17514,MSI 760GM-P34 (FX) BOM,case,CASE-d5b9e6992e,Silverstone SUGO 14,,,,2026
+L150,R3,tuning,PASS,motherboard,MB-43dcf49c92,MSI H410M PRO,case,CASE-c1f25d1e76,In Win Z583T.CQ350TBL,,,,2026
+L151,R4,test,UNKNOWN,cpu,CPU-2781249206,Intel Pentium E6300,video-card,GPU-30a1765fc5,EVGA Gaming iCX,power-supply,PSU-c636dbc9e6,Apevia CAPTAIN,2026
+L152,R4,test,FAIL,cpu,CPU-6a178bd4b6,AMD Athlon X4 750K,video-card,GPU-a127067544,PowerColor Red Dragon OC,power-supply,PSU-65032f90b3,Gigabyte P450B,2026
+L153,R4,test,UNKNOWN,cpu,CPU-fe5f761ba8,Intel Core i7-11700,video-card,GPU-1589e25399,Asus GT730-SL-1GD3-BRK,power-supply,PSU-93f34eaf12,Cooler Master Elite NEX N600,2026
+L154,R4,test,FAIL,cpu,CPU-8baee778cf,Intel Core i5-4590,video-card,GPU-ff7af262ce,Zotac GAMING Trinity OC,power-supply,PSU-5f5f37df35,Apex AG-M,2026
+L155,R4,test,PASS,cpu,CPU-679363e33c,Intel Core i5-7400T,video-card,GPU-8f01a139cc,Asus ROG STRIX GAMING OC,power-supply,PSU-0c095f7159,KOLINK Regulator,2026
+L156,R4,test,FAIL,cpu,CPU-e2202bebf7,Intel Pentium G4520,video-card,GPU-8e45707a86,Zotac GAMING Trinity,power-supply,PSU-31d69b3f91,Cougar POWERX,2026
+L157,R4,test,FAIL,cpu,CPU-0b43ffecf1,Intel Pentium Gold G6600,video-card,GPU-1e64abf0aa,Asus DUAL OC,power-supply,PSU-68eeb241ea,Apex AL-A350ATX,2026
+L158,R4,test,PASS,cpu,CPU-4cf321a3ac,Intel Pentium G850,video-card,GPU-9cc1eacd01,PNY XLR8 Gaming REVEL EPIC-X RGB,power-supply,PSU-79f7026a6f,XClio Goodpower 650W,2026
+L159,R4,test,UNKNOWN,cpu,CPU-57c9924f60,AMD Ryzen 5 4500,video-card,GPU-ed78e153f7,Asus GTX680-DC2-2GD5,power-supply,PSU-62bf172eff,XClio Goodpower 550W,2026
+L160,R4,test,PASS,cpu,CPU-7ac9580e80,AMD A10-6790K,video-card,GPU-0b336cdb1f,Asus Turbo,power-supply,PSU-aef47d1775,Sparkle R-SPI700ACH5B,2026
+L161,R4,test,FAIL,cpu,CPU-4111d1e56a,Intel Xeon E-2276G,video-card,GPU-f156357e02,Asus Noctua OC,power-supply,PSU-3244239dd5,Cooler Master Elite,2026
+L162,R4,test,PASS,cpu,CPU-72570b13b1,Intel Core i3-3220,video-card,GPU-36b8899e9b,Asus ROG STRIX GAMING OC,power-supply,PSU-057123e2f2,Enermax REVOLUTION SFX,2026
+L163,R4,test,PASS,cpu,CPU-56912ca2a9,Intel Core i7-4790,video-card,GPU-ae01c90ee1,Asus ProArt OC,power-supply,PSU-f4c9900f07,XClio STABLEPOWER 460W,2026
+L164,R4,test,PASS,cpu,CPU-d811757303,Intel Xeon E5-2643 V3,video-card,GPU-7be1794f88,MSI ARMOR OC,power-supply,PSU-6ee8f178ac,Asus ROG THOR 1600T Gaming,2026
+L165,R4,test,PASS,cpu,CPU-f3d5ca0fa5,Intel Core i5-8500T,video-card,GPU-8cadf6f7c2,PNY VERTO OC,power-supply,PSU-1579109e68,Cooler Master i700,2026
+L166,R4,test,UNKNOWN,cpu,CPU-db63b212a6,Intel Xeon E5-2660 V3,video-card,GPU-830c56fb7f,HIS H290XF4GD,power-supply,PSU-1c60b4c166,Corsair GS500,2026
+L167,R4,test,FAIL,cpu,CPU-65a298b50d,Intel Core i7-7800X,video-card,GPU-3ef44efa11,PowerColor Red Devil Limited Edition,power-supply,PSU-742d27502a,Kuroutoshikou KRPW-L5-500W/80+,2026
+L168,R4,test,FAIL,cpu,CPU-17d3cc417c,Intel Core 2 Duo E6850,video-card,GPU-e4891337fd,Asus TUF GAMING,power-supply,PSU-6b5e01d990,GameMax VP,2026
+L169,R4,test,FAIL,cpu,CPU-92fd3940a3,Intel Pentium G4560T,video-card,GPU-5bf028944d,MSI GAMING X TRIO,power-supply,PSU-a49b8b6039,Antec EARTHWATTS GOLD PRO 550,2026
+L170,R4,test,PASS,cpu,CPU-904fc8a739,Intel Pentium G6950,video-card,GPU-00dd9bb0a5,Asus STRIX GAMING OC,power-supply,PSU-420ab8918b,Cooler Master i500,2026
+L171,R4,test,UNKNOWN,cpu,CPU-229e6da9a3,AMD Phenom II X4 840,video-card,GPU-37b659e56f,Sapphire 11196-00-20G,power-supply,PSU-62d4bf7885,FSP Group FSP220-60LE(80),2026
+L172,R4,test,PASS,cpu,CPU-9c138bfec6,Intel Xeon E5-2630,video-card,GPU-bb84d09a4e,PowerColor Red Dragon,power-supply,PSU-45eb9ade93,Antec EA-750 Platinum,2026
+L173,R4,test,UNKNOWN,cpu,CPU-2ba6b2ae0b,AMD A4-5300,video-card,GPU-3cd8992345,MSI HAWK,power-supply,PSU-d8ba4b08dd,Silverstone OP1000-P,2026
+L174,R4,test,FAIL,cpu,CPU-2d18161393,Intel Core i9-9820X,video-card,GPU-bf38377a7f,Palit JetStream,power-supply,PSU-dacad222ec,Raidmax Cobra,2026
+L175,R4,test,PASS,cpu,CPU-f6b66bf289,AMD Athlon II X2 250u,video-card,GPU-59c71e76e9,MSI GeForce RTX 3090 VENTUS 3X 24G OC,power-supply,PSU-8330bf26a2,Thermaltake Toughpower,2026
+L176,R4,test,FAIL,cpu,CPU-44d4a0ac4e,Intel Xeon E3-1220 V5,video-card,GPU-83dde18fad,Asus TUF GAMING OC,power-supply,PSU-3244239dd5,Cooler Master Elite,2026
+L177,R4,test,PASS,cpu,CPU-ba5aec6279,AMD Phenom II X6 1035T,video-card,GPU-53a6ac26ba,KFA2 EX Gamer,power-supply,PSU-3c1868bd74,Enermax Revolution D.F. X,2026
+L178,R4,test,PASS,cpu,CPU-47d98dca54,Intel Core i5-2300,video-card,GPU-565279355e,Asus DUAL EVO,power-supply,PSU-32f18ae2e2,EVGA SuperNOVA 750 G5,2026
+L179,R4,test,FAIL,cpu,CPU-ba5aec6279,AMD Phenom II X6 1035T,video-card,GPU-0d4a65fd64,Gigabyte EAGLE OC,power-supply,PSU-587bb294fd,Thermaltake Litepower GEN2 230V,2026
+L180,R4,test,FAIL,cpu,CPU-33875bbfc2,Intel Core i7-7740X,video-card,GPU-7bfcf507e3,EVGA FTW3 ULTRA GAMING,power-supply,PSU-76c4eb86c5,Sparkle FSP300-60ATV,2026

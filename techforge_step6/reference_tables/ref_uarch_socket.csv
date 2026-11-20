@@ -1,0 +1,36 @@
+microarchitecture,socket,ambiguous,note,source,verified,version
+Alder Lake,LGA1700,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Raptor Lake,LGA1700,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Raptor Lake Refresh,LGA1700,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Arrow Lake,LGA1851,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Rocket Lake,LGA1200,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Comet Lake,LGA1200,no,desktop Comet Lake,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Coffee Lake,LGA1151,no,LGA1151 revision 2; the dataset does not separate rev.1/rev.2 boards - known limitation,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Coffee Lake Refresh,LGA1151,no,LGA1151 revision 2; see Coffee Lake note,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Haswell Refresh,LGA1150,no,,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Kaby Lake,,yes,LGA1151 and LGA2066 (Kaby Lake-X),Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Skylake,,yes,LGA1151 and LGA2066 (Skylake-X),Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Cascade Lake,,yes,LGA2066 (Core X) and server sockets,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Haswell,,yes,"LGA1150 and LGA2011-3 (Haswell-E, Xeon E5 v3)",Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Broadwell,,yes,LGA1150 and LGA2011-3,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Ivy Bridge,,yes,LGA1155 and LGA2011,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Sandy Bridge,,yes,LGA1155 and LGA2011,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Zen,,yes,AM4 and TR4 (Threadripper),AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen+,,yes,AM4 and TR4,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 2,,yes,"AM4, sTRX4, sWRX8",AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 3,,yes,AM4 and sWRX8,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 4,,yes,AM5 and sTR5,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 5,,yes,AM5 and sTR5,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Steamroller,FM2+,no,,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Lynx,FM1,no,Llano desktop platform,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Jaguar,AM1,no,Kabini desktop,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Excavator,,yes,AM4 (Bristol Ridge) and FM2+,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Puma+,,yes,resolved by model,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Piledriver,,yes,AM3+ (FX) and FM2 (APU),AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Bulldozer,,yes,AM3+ (FX) and server,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+K10,,yes,AM2+/AM3/FM1 - not resolved in this draft,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Core,,yes,LGA775/LGA771 - not resolved in this draft,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Wolfdale,,yes,LGA775/LGA771 - not resolved in this draft,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Yorkfield,,yes,LGA775/LGA771 - not resolved in this draft,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Nehalem,,yes,LGA1156/LGA1366 - not resolved in this draft,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Westmere,,yes,LGA1156/LGA1366 - not resolved in this draft,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18

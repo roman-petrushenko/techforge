@@ -1,0 +1,3 @@
+part_key,gpu_power_known_assortment,psu_wattage_known_assortment,injected_detected_FAIL,injected_UNKNOWN,coverage_five_suggestions,data_label
+report (category + name),0.447,0.767,0.8176,0.1824,0.7955,real catalog + SYNTHETIC events
+extended (+ variant fields),0.993,1.0,0.9054,0.0946,0.8832,real catalog + SYNTHETIC events

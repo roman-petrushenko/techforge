@@ -1,0 +1,32 @@
+microarchitecture,name_regex,socket,priority,source,verified,version
+Zen,Threadripper 19\d\d,sTR4,1,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen,Ryzen [3579] (PRO )?\d{4}|Athlon (2\d\dGE|3000G),AM4,2,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen+,Threadripper 29\d\d,sTR4,3,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen+,Ryzen [3579] (PRO )?\d{4},AM4,4,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 2,Threadripper PRO,sWRX8,5,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 2,Threadripper 39\d\dX,sTRX4,6,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 2,Ryzen [3579] (PRO )?\d{4},AM4,7,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 3,Threadripper PRO,sWRX8,8,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 3,Ryzen [3579] (PRO )?\d{4},AM4,9,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 4,Threadripper,sTR5,10,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 4,Ryzen [3579] (PRO )?\d{4},AM5,11,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 5,Threadripper,sTR5,12,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Zen 5,Ryzen [3579] (PRO )?\d{4},AM5,13,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Kaby Lake,7[67]40X,LGA2066,14,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Kaby Lake,Core i[357]-7\d{3}|Pentium G4[569]\d\d|Celeron G39[3-5]\d|Xeon E3-12\d\d V6,LGA1151,15,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Skylake,Core i[79]-[79]\d{3}X|Xeon W-21\d\d,LGA2066,16,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Skylake,Core i[3579]-6\d{3}|Pentium G4[45]\d\d|Celeron G39[0-2]\d|Xeon E3-12\d\d V5,LGA1151,17,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Cascade Lake,Core i9-10\d{3}XE?,LGA2066,18,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Haswell,Core i7-5[89]\d\dK|Core i7-5960X|Xeon E5-\d{4}W? V3,LGA2011-3,19,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Haswell,Core i[357]-4\d{3}|Pentium G3\d{3}|Celeron G18\d\d|Xeon E3-12\d\d V3,LGA1150,20,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Broadwell,Core i7-6[89]\d\dK|Core i7-69\d\dX|Xeon E5-\d{4}W? V4,LGA2011-3,21,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Broadwell,Core i[57]-5[67]75C,LGA1150,22,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Ivy Bridge,Core i7-4[89]\d\dK|Core i7-4960X|Xeon E5-\d{4}W? V2,LGA2011,23,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Ivy Bridge,Core i[357]-3\d{3}|Pentium G2\d{3}|Celeron G1[68]\d\d|Xeon E3-12\d\d V2,LGA1155,24,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Sandy Bridge,Core i7-3[89]\d\dK?|Core i7-3970X|Xeon E5-\d{4}W?$,LGA2011,25,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Sandy Bridge,Core i[357]-2\d{3}|Pentium G[68]\d\d|Celeron G[45]\d\d,LGA1155,26,Intel ARK product specification page of the exact model (Sockets Supported) - https://ark.intel.com,no,ref-draft-2026-11-18
+Excavator,A\d+-9\d{3}|Athlon X4 9[4-7]0,AM4,27,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Puma+,A\d+-7\d{3}|Athlon X4 8[4-6]5,FM2+,28,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Piledriver,FX-,AM3+,29,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Piledriver,A\d+-[56]\d{3}|Athlon X4 7[3-6]0K?,FM2,30,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18
+Bulldozer,FX-,AM3+,31,AMD product specification page of the exact model (CPU Socket) - https://www.amd.com/en/products/specifications/processors.html,no,ref-draft-2026-11-18

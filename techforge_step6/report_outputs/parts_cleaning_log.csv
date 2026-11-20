@@ -1,0 +1,7 @@
+data_label,category,rows_in,parts_out,duplicate_rows_merged,parts_with_conflicts,rows_in_conflicting_parts,parts_without_price,part_key_mode
+real catalog (pc-part-dataset c52a04c),cpu,1413,961,452,0,0,469,extended
+real catalog (pc-part-dataset c52a04c),motherboard,4973,4956,17,2,4,4008,extended
+real catalog (pc-part-dataset c52a04c),memory,13553,8081,5472,0,0,5981,extended
+real catalog (pc-part-dataset c52a04c),video-card,6636,6232,404,65,160,5012,extended
+real catalog (pc-part-dataset c52a04c),case,6626,4211,2415,0,0,3531,extended
+real catalog (pc-part-dataset c52a04c),power-supply,3438,3196,242,0,0,2667,extended
